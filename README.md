@@ -11,3 +11,5 @@ This project demonstrates Git and GitHub operations.
 - Branching and merging
 
 Updated directly from GitHub.
+
+This file is updated from GitHub for pull operation.
